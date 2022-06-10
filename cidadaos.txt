@@ -1,0 +1,10 @@
+Nome            | Idade | Município onde mora | Estado 
+Antonio Carlos  | 43    | São Tomé das Letras | MG
+Cláudia Pereira | 20    | Aparecida           | SP    
+José dos Santos | 30    | Manaus              | AM     
+Thomas Bloch    | 22    | Marechal Deodoro    | AL    
+Maria Aparecida | 35    | Feira de Santana    | BA    
+Diego da Silva  | 29    | Macapá              | AP     
+Valentina de Sá | 28    | Uruguaiana          | RS     
+Leonardo Souza  | 30    | Araraquara          | SP     
+Miguel Pereira  | 33    | Parati              | RJ
